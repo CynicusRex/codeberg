@@ -1,3 +1,2 @@
 # Codeberg
-Migrated everything to [Codeberg](https://codeberg.org).
-
+Migrated [my repositories](https://codeberg.org/CynicusRex) to [Codeberg](https://codeberg.org).
