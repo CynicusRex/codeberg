@@ -1,2 +1,3 @@
-# codeberg
-Migrated everything to Codeberg
+# Codeberg
+Migrated everything to [Codeberg](https://codeberg.org).
+
